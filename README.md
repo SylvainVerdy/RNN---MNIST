@@ -1,2 +1,2 @@
-# RNN-with-MNIST
+# LSTM-MNIST
 Simple implementation in  pytorch
